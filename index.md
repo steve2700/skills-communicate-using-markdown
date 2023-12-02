@@ -6,3 +6,6 @@
 ###### This is h6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [x] completed the communicating using markdown
+- [ ] havent completed my assignments of skills production
+- [x]  completed my django tutorial 
